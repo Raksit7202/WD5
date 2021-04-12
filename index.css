@@ -1,0 +1,27 @@
+.container{
+  background-color : black;
+}
+.col-1 {
+  background-color:lavenderblush;
+  border:solid black 2px;
+}
+.col-4 {
+  background-color:lavender;
+  border:solid black 2px;
+  padding:10px;
+}
+.col-6 {
+  background-color:lavenderblush;
+  border:solid black 2px;
+  padding:10px;
+}
+.col-8 {
+  background-color:lavender;
+  border:solid black 2px;
+  padding:10px;
+}
+.col-12 {
+  background-color:lavenderblush;
+  border:solid black 2px;
+  padding:10px;
+}
